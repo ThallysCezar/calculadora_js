@@ -27,4 +27,4 @@ function calcular()
         {
             document.getElementById('resultado').innerHTML = "Sem valores";
         }
-}
+} 
