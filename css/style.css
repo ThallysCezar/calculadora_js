@@ -44,3 +44,14 @@
 .zero {
     width: 106px;
 }
+
+#resultado {
+    width: 207px;
+    height: 30px;
+    margin: 5px;
+    font-size: 25px;
+    background-color: #fff;
+    color: black;
+    text-align: right;
+    padding: 5px;
+}
