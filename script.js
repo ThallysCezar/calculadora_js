@@ -1,5 +1,5 @@
 // chamando os números da calculadora para aparecer no "display"
-function insert()
+function insert(num)
 {
-    
+    document.getElementById('resultado').innerHTML = num;
 }
